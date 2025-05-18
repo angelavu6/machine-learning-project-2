@@ -23,7 +23,9 @@ Each part involved building machine learning pipelines, evaluating performance, 
 ## 📂 Project Structure
 
 ├── assignment2.ipynb # Main Jupyter Notebook (code + analysis)
+
 ├── README.md # This file
+
 └── /data # Folder to hold Breast Cancer dataset CSV files
 
 
