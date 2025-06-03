@@ -2,7 +2,7 @@
 
 ## 📁 Project Overview
 
-This repository contains my submission for **CITS5508 Assignment 2 (Semester 1, 2025)** at the University of Western Australia. The assignment explores **ensemble learning techniques** and **dimensionality reduction** applied to two well-known datasets:
+This repository contains my research for the **CITS5508 Machine Learning** unit at the University of Western Australia. The research explores **ensemble learning techniques** and **dimensionality reduction** applied to two well-known datasets:
 
 - **Part 1**: Voting Classifier on the *Diagnostic Wisconsin Breast Cancer* dataset.
 - **Part 2**: Random Forests and PCA on the *Labeled Faces in the Wild* dataset.
